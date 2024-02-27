@@ -352,15 +352,7 @@ section {
   color: #E74C3C;
 }
 
-.about .strong .a{
-  color: #0e2442 !important; 
 
-}
-
-.about .strong .a:hover{
-  color: #3498DB !important;
-  text-decoration: underline;
-}
 
 .about .content ul {
   list-style: none;
@@ -391,6 +383,16 @@ section {
 .acerca {
   text-align: justify !important;
 
+}
+
+.acerca .strong .a{
+  color: #0e2442 !important; 
+
+}
+
+.acerca .strong .a:hover{
+  color: #3498DB !important;
+  text-decoration: underline;
 }
 /*--------------------------------------------------------------
 # Facts
