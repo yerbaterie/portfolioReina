@@ -649,7 +649,10 @@ section {
   opacity: 1;
   bottom: 0;
 }
-
+.acerca  a:hover{
+  color: #3498DB !important;
+  text-decoration: underline;
+}
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
