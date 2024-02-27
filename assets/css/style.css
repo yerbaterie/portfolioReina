@@ -353,12 +353,12 @@ section {
 }
 
 .about .a{
-  color: #0e2442;
+  color: #0e2442 !important; 
 
 }
 
 .about .a:hover{
-  color: #3498DB;
+  color: #3498DB !important;
   text-decoration: underline;
 }
 
