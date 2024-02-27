@@ -385,12 +385,12 @@ section {
 
 }
 
-.acerca .strong .a{
+.acerca  .a{
   color: #0e2442 !important; 
 
 }
 
-.acerca .strong .a:hover{
+.acerca  .a:hover{
   color: #3498DB !important;
   text-decoration: underline;
 }
