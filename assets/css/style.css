@@ -352,6 +352,16 @@ section {
   color: #E74C3C;
 }
 
+.about .a{
+  color: #0e2442;
+
+}
+
+.about .a:hover{
+  color: #3498DB;
+  text-decoration: underline;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
