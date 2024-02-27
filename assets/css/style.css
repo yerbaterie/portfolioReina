@@ -352,12 +352,12 @@ section {
   color: #E74C3C;
 }
 
-.about .a{
+.about .strong .a{
   color: #0e2442 !important; 
 
 }
 
-.about .a:hover{
+.about .strong .a:hover{
   color: #3498DB !important;
   text-decoration: underline;
 }
